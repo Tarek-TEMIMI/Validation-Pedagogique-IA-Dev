@@ -55,9 +55,9 @@ Ce document démontre une étude approfondie du programme proposé par le cabine
 
 ---
 
-## Synthèse — Pourquoi cette approche rassure le cabinet
+## Points de convergence et de complémentarité
 
-1. **J'ai étudié leur programme dans le détail** — au point de repérer une incohérence technique (JUnit/Jest vs .NET) qu'ils n'ont peut-être pas vue eux-mêmes
-2. **Mon contenu existe déjà** — modules rédigés, projet fil rouge prêt : pas de risque d'improvisation
-3. **Ma valeur n'est pas la maîtrise de .NET, c'est la maîtrise du *processus* de pilotage IA** — applicable et transposable, ce qui est précisément ce qu'un cabinet veut entendre d'un formateur qui doit intervenir sur des stacks variées selon les clients
-4. **J'apporte une amélioration concrète** (sécurité dès J1, mesure d'impact systématique) plutôt que de simplement "réciter" leur programme
+1. **Convergence forte sur le fond** — les deux programmes partagent la même architecture pédagogique (cadrage → génération → analyse → tests → intégration), ce qui confirme que la méthodologie proposée est bien adaptée au besoin exprimé
+2. **Une observation technique** — le programme transmis mentionne JUnit et Jest au Jour 4, alors que l'ensemble du parcours est positionné sur une stack .NET ; un alignement sur xUnit/NUnit/MSTest semble plus cohérent
+3. **Une méthodologie transposable** — le processus de pilotage de l'IA (prompting, cadrage, validation critique) reste le même quel que soit le langage ; c'est ce socle commun qui est mobilisé ici, avec une adaptation au contexte .NET du programme
+4. **Un point d'attention proposé** — intégrer un court volet sécurité dès le Jour 1 (en complément de l'approfondissement du Jour 5), pour que les bons réflexes soient présents dès les premiers usages de l'IA
